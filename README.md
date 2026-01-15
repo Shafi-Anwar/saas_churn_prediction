@@ -49,19 +49,17 @@ This project uses **synthetic customer data** to simulate real-world scenarios a
 
 ## 🤖 Models Used
 - **Logistic Regression** – Baseline classifier  
-- **Random Forest Classifier** – Tuned for better performance  
-- **CatBoost Classifier** – Tested for additional performance gains  
+- **Random Forest Classifier** – Standard implementation  
 
 ---
 
 ## 📊 Model Evaluation
-- Metrics:
+- Metrics used to evaluate model performance:
   - Accuracy  
   - Precision  
   - Recall  
   - F1-Score  
-  - ROC-AUC  
-- Confusion matrix and ROC curve used for visualization  
+- Confusion matrix used for visualization  
 
 ---
 
@@ -75,13 +73,16 @@ This project uses **synthetic customer data** to simulate real-world scenarios a
 - **Python**  
 - **Pandas, NumPy**  
 - **Seaborn, Matplotlib**  
-- **Scikit-learn,** 
+- **Scikit-learn**  
 - **Git & Bash**
 
 ---
 
 ## 🌟 Key Learnings
 - Practiced end-to-end ML workflow on synthetic datasets  
-- Learned model selection, hyperparameter tuning, and threshold adjustment  
-- Deployed ML models as interactive applications  
-- Gained insights
+- Learned basic model selection and evaluation  
+- Gained insights into churn prediction for SaaS businesses  
+
+---
+
+✨ *This project demonstrates a complete ML workflow from synthetic data exploration to model evaluation using logistic regression and random forest.*
